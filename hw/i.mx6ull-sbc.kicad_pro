@@ -320,6 +320,18 @@
     [
       "19de95d8-ae58-41ae-b722-1b89a95dad2f",
       ""
+    ],
+    [
+      "b9f95e55-a519-4766-964b-e5de64a3dee8",
+      "i.mx6ull-A"
+    ],
+    [
+      "bea6299c-bf4f-46fa-89db-fff11d7a3820",
+      "i.mx6ull-B"
+    ],
+    [
+      "66b3f2e5-bde9-4778-b888-2cf654b06008",
+      "i.mx6ull-C"
     ]
   ],
   "text_variables": {}

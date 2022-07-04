@@ -15,7 +15,58 @@
   )
 
 
+  (sheet (at 198.755 70.485) (size 31.115 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 66b3f2e5-bde9-4778-b888-2cf654b06008)
+    (property "Sheet name" "i.mx6ull-C" (id 0) (at 198.755 69.7734 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "i.mx6ull-c.kicad_sch" (id 1) (at 198.755 90.1196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 121.285 71.12) (size 31.115 18.415) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid b9f95e55-a519-4766-964b-e5de64a3dee8)
+    (property "Sheet name" "i.mx6ull-A" (id 0) (at 121.285 70.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "i.mx6ull-a.kicad_sch" (id 1) (at 121.285 90.1196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 163.195 70.485) (size 31.115 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid bea6299c-bf4f-46fa-89db-fff11d7a3820)
+    (property "Sheet name" "i.mx6ull-B" (id 0) (at 163.195 69.7734 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "i.mx6ull-b.kicad_sch" (id 1) (at 163.195 90.1196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/b9f95e55-a519-4766-964b-e5de64a3dee8" (page "2"))
+    (path "/bea6299c-bf4f-46fa-89db-fff11d7a3820" (page "3"))
+    (path "/66b3f2e5-bde9-4778-b888-2cf654b06008" (page "4"))
+  )
+
+  (symbol_instances
+    (path "/b9f95e55-a519-4766-964b-e5de64a3dee8/7dd0499e-9a76-4e2d-9a34-40c536439322"
+      (reference "U?") (unit 1) (value "MCIMX6Y2CVM08AB") (footprint "LFBGA289_SOT1534-2_NXP")
+    )
+    (path "/bea6299c-bf4f-46fa-89db-fff11d7a3820/7de1d62e-50a5-4c90-af66-479da9a73f10"
+      (reference "U?") (unit 2) (value "MCIMX6Y2CVM08AB") (footprint "LFBGA289_SOT1534-2_NXP")
+    )
+    (path "/66b3f2e5-bde9-4778-b888-2cf654b06008/c08eec08-2a2f-493d-8921-26793454aaf9"
+      (reference "U?") (unit 3) (value "MCIMX6Y2CVM08AB") (footprint "LFBGA289_SOT1534-2_NXP")
+    )
   )
 )
