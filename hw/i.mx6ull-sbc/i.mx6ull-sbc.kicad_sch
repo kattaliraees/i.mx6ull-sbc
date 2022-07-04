@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 19de95d8-ae58-41ae-b722-1b89a95dad2f)
+
+  (paper "A4")
+
+  (title_block
+    (title "i.MX6ULL SBC")
+    (date "2022-07-04")
+    (rev "0.1")
+    (company "Raees Kattali")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
