@@ -332,6 +332,10 @@
     [
       "66b3f2e5-bde9-4778-b888-2cf654b06008",
       "i.mx6ull-C"
+    ],
+    [
+      "1e2cf185-5887-48dd-bdd4-58c99a152c53",
+      "power"
     ]
   ],
   "text_variables": {}
